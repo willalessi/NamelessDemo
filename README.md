@@ -21,13 +21,13 @@
 4. Consumables
 5. Health
 
-- Also lists specific inputs/diretions
+- Also lists specific inputs/directions
 
 ### 3. Main Game
 
 - Playthrough of the current state of the game
 - Starts in a hub area where the player can deposit currency and upgrade stats/consumables
-- Currency is earned through killing enemies in a run through of the game
+- Currency is earned through killing enemies in a run-through of the game
 - Currency can be spent once it is deposited in the well in the middle of the area
 - Player can interact with two NPC's by pressing 'e' near either of them
 - One NPC upgrades consumables while the other upgrades stats
